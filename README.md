@@ -1,2 +1,2 @@
 # contact-me
-Please meke an issue to contact me.
+Please meke an issue in this repository to contact me.
